@@ -18,6 +18,7 @@ payload:
     - +.dln1.ncdn.ec
     - +.zh.library-access.sk
     - +.store.steampowered.com
+    - +.ghcr.io
     - +.github.githubassets.com
 
     - +.18comic.vip
