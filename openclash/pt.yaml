@@ -33,6 +33,8 @@ payload:
     - +.pttime.org
     - +.pttime.top
     - +.rousi.zip
+    - +.rousipt.com
+    - +.rousi.pro
     - +.totheglory.im
     - +.springsunday.net
     - +.pterclub.com
@@ -131,7 +133,7 @@ payload:
     - +.fsm-us.eu.org
     - +.kamept.com
     - +.pthome.org
-    - +.rousipt.com
+
     - +.pttime.online
     
     #pttracker
